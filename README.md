@@ -51,23 +51,3 @@ You can also take the glimpse of our Project, just follow the below steps:
 ## Demo 🎥
 
 -Deployed Link: [MakeMyTrip-clone](https://make-my-trip-clone.vercel.app/)
-
-<br/>
-
-## Team Members and Contributors 😇
-
-👤 **Shreevali Kushe**
-
-- Github: [Shreevali Kushe](https://github.com/shreevalikushe)
-
-👤 **Shubham Gadge**
-
-- Github: [Shubham Gadge](https://github.com/shubham-955)
-
-👤 **Suraj Himanshu**
-
-- Github: [Suraj Himanshu](https://github.com/surajhimanshu)
-
-👤 **Anil Kumar**
-
-- Github: [Anil Kumar](https://github.com/anil843324)
